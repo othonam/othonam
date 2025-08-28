@@ -1,4 +1,4 @@
-<img align="right" src="./.github/programming.png" width="400"  > </img>
+
 
 ### Hello there! I'm Othon Andrade Menezes 👋
 <p align="justify">
